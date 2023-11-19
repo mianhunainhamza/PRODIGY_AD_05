@@ -1,4 +1,4 @@
-# qrcode
+# QRCODE Scanner
 
 QR Code scanner in which you can scan qr codes and then directly open the links
 
